@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Yassin</h1>
-<h3 align="center">Fresh graduate from FCAI, Cairo University</h3>
+<h3 align="center">Java Software Engineer</h3>
 
 - 📫 How to reach me **yassinmahmoudyassin@gmail.com**
 
